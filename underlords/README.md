@@ -1,5 +1,5 @@
 # Elsewhere: Underlords
-*** Resistance Fighters for the Metaverse ***
+**Resistance Fighters for the Metaverse**
 
 ## Welcome, Underlord
 
