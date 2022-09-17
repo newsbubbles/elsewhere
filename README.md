@@ -1,3 +1,11 @@
-This repository holds the texts and contents for the elsewhere metaverse website.
+# Elsewhere: The AI Generated Metaverse
 
-It is under construction. Currently we are still deciding licensing for this repository.
+## Welcome to Elsewhere
+
+### Current Projects
+
+Underlords NFT Collection
+
+## The Future
+
+## About Us
