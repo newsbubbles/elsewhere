@@ -1,8 +1,10 @@
 # Elsewhere: The AI Generated Metaverse
+![Elsewhere Panoramic](media/pano/00053.jpg)
 How will we build the Metaverse? With the help of Artificial Intelligence. This project aims to build a metaverse using AI.
 
 ## Welcome to Elsewhere
 Elsewhere is a place beyond all places; a place so *vast* that it encompasses all known universes, muliverses and metaverses. A place generated and memorized completely by machine intelligence under the guidance of humans.
+![Elsewhere Panoramic](media/pano/00028.jpg)
 
 ### What we are Building
 
