@@ -7,6 +7,7 @@ Elsewhere is a place beyond all places; a place so *vast* that it encompasses al
 ![Elsewhere Panoramic](media/pano/00028.jpg)
 
 ### What we are Building
+![Elsewhere Panoramic](media/pano/00029.jpg)
 
 ## Invest
 Sticking with our principle of decentralization, we are generating unique tokens as means of investing in our projects.
