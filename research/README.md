@@ -60,9 +60,9 @@ Linking to a resource, the format to follow is:
 
 ## NPCs
 
-## NPC Generation
+### NPC Generation
 
-## NPC Intelligence
+### NPC Intelligence
 * ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters - ([code](https://github.com/nv-tlabs/ASE), [paper](https://arxiv.org/abs/2205.01906))
 
 ## Optimization Methods
