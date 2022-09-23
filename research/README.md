@@ -23,16 +23,27 @@ In order to "build the metaverse" we need to focus on some key areas in research
 
 Linking to a resource, the format to follow is:
 ```
-* title - (code, paper)
+* title - (code, paper[, notebook])
 ```
 
 ## 2D Diffusion Models
 
 ## 3D Diffusion Models
 
+### Voxel Based
+
+* CLIP-Forge - [code](https://github.com/AutodeskAILab/Clip-Forge), [paper](https://arxiv.org/pdf/2110.02624.pdf)
+
+### Mesh Based
+
+* Text2Mesh - [code](https://github.com/threedle/text2mesh)
+
 ## 3D Prompt Engineering
 
 ## AI Storytelling
+
+* [Improved-StoryGAN for sequential images visualization](https://www.sciencedirect.com/science/article/abs/pii/S1047320320301826) (Pay wall!)
+
 
 ## Audio Diffusion Models
 
