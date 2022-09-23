@@ -29,11 +29,13 @@ Linking to a resource, the format to follow is:
 
 ## 2D Diffusion Models
 
+* Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models - ([code](https://github.com/CompVis/stable-diffusion), [paper](https://arxiv.org/abs/2112.10752))
+
 ## 3D Diffusion Models
 
 ### Voxel Based
 
-* CLIP-Forge - ([code](https://github.com/AutodeskAILab/Clip-Forge), [paper](https://arxiv.org/pdf/2110.02624.pdf))
+* CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation - ([code](https://github.com/AutodeskAILab/Clip-Forge), [paper](https://arxiv.org/pdf/2110.02624.pdf))
 
 ### Mesh Based
 
@@ -48,14 +50,20 @@ Linking to a resource, the format to follow is:
 * StoryGAN: A Sequential Conditional GAN for Story Visualization - ([code](https://github.com/yitong91/StoryGAN), [paper](https://arxiv.org/abs/1812.02784))
 * [Improved-StoryGAN for sequential images visualization](https://www.sciencedirect.com/science/article/abs/pii/S1047320320301826) (Pay wall!)
 
-
 ## Audio Diffusion Models
 
 ## Audio Synthesis
 
+* Mozilla TTS: High Quality Trainable Text-to-Speech - ([code](https://github.com/mozilla/TTS))
+
 ## Human Interfaces
 
+## NPCs
+
+## NPC Generation
+
 ## NPC Intelligence
+* ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters - ([code](https://github.com/nv-tlabs/ASE), [paper](https://arxiv.org/abs/2205.01906))
 
 ## Optimization Methods
 
